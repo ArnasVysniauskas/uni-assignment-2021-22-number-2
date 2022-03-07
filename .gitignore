@@ -1,0 +1,9 @@
+__pycache__
+.DS_store
+data/athlete_events.csv
+data/hist.png
+data/lines.png
+data/noise_removed.png
+data/noisy_pattern.png
+data/pattern_filter_1.png
+data/scatter.png
